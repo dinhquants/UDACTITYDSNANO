@@ -1,6 +1,6 @@
 # Wisconsin Breast Cancel Dataset Analysis
 
-## :rocket: Table of contents
+## :cancer: Table of contents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
