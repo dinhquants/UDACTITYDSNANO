@@ -28,7 +28,7 @@ There are one notebooks available here to showcase work related to the above que
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com).
+The main findings of the code can be found at the post available [here](https://medium.com/@dinhnda2021/wisconsin-breast-cancer-dataset-analysis-2db2a51bde9d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
