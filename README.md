@@ -16,9 +16,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I got interested in cancer research so  to better understand:
 
-1. How to predict whether the cancer is benign or malignant?
-2. How do different models predict cancel diagnosis?
-3. What is the best models result?
+1. Which features are most helpful in predicting malignant or benign cancer? Which features are not helpful in predicting malignant or benign cancer?
+2. How do different models predict cancer diagnosis?
+3. What is the best models predict?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
